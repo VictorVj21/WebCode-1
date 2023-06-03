@@ -1,0 +1,38 @@
+.container-fixed{
+    text-align: center;
+    height: 33%;
+    color: blue;
+   background-image: linear-gradient(to left,rgb(5, 54, 67),rgb(159, 12, 204));
+}
+
+.result{
+    display:none;
+    background-image: linear-gradient(to left,rgb(30,40,50),rgb(10,20,30));
+}
+
+#searchtext{
+    display: inline-block;
+    text-decoration: solid;
+    border-style:double;
+    border-color:black;
+}
+
+#btn{
+    height:50px;
+}
+
+#resetbtn{
+    height:50px;
+}
+
+.container{
+    color:black;
+    display: inline-block;
+    height: 500px;
+    width: 300px;
+    
+}
+
+body{
+    background-image: linear-gradient(to left,rgb(12,24,36),rgb(21, 42, 63));    
+}
